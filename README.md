@@ -32,6 +32,8 @@
   <a href="https://www.hackerrank.com/hariharansekars1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
+  <a href="https://www.codechef.com/users/shariharan" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shariharan" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/hariharan_001" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
